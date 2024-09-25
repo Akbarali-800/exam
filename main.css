@@ -1,0 +1,114 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+
+
+h1 {
+    text-align: center;
+    border: 3px solid rgb(255, 0, 0);
+    color: white;
+    background-color: rgb(23, 0, 88);
+    border-radius: 10px;
+}
+
+.b1 {
+    color: chocolate;
+}
+
+h2 {
+    color: rgb(90, 148, 3);
+}
+
+h3 {
+    text-align: center;
+    border: 3px solid rgb(255, 0, 0);
+    color: white;
+    background-color: rgb(0, 88, 29);
+    border-radius: 10px;
+}
+
+.main_box {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.img1 {
+    width: 400px;
+    height: 250px;
+    border-radius: 8px;
+}
+
+.box1 {
+    text-align: center;
+    border: 3px solid rgb(43, 255, 0);
+    height: 250px;
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    background-color: greenyellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.user {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 1200px;
+    /* height: 100px; */
+    /* border-radius: 15px 0; */
+}
+
+th {
+    border: 1px solid black;
+}
+
+.first {
+    height: 20px;
+    background-color: yellow;
+}
+
+.red {
+    color: white;
+    background-color: red;
+}
+
+.green {
+    color: white;
+    background-color: green;
+    width: 600px;
+}
+
+
+.main_table {
+    align-items: center;
+}
+
+.inn{
+    width: 100%;
+    border: 3px solid green;
+    border-radius: 10px;
+}
+
+.btn1{
+    text-align: center;
+}
+
+.bnt{
+    width: 200px;
+    height: 50px;
+    border: 2px solid green;
+    background-color: rgb(115, 255, 115);
+}
